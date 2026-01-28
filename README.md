@@ -1,7 +1,7 @@
 Hi there, I’m Hope Mola
-Currently learning:  Spring Boot, AWS
-Aspiring: Full Stack Developer / Java developer
-Passionate about: Building scalable applications, cloud technologies, and clean code
+Currently learning: Data Analysis tools, SQL, Python, and Cloud platforms (Azure)
+Aspiring: Data Analyst / Data Engineer
+Passionate about: Turning data into insights, building data-driven solutions, and working with clean, well-structured datasets
 
 💻 Tech Stack
 
