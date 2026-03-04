@@ -1,6 +1,6 @@
 Hi there, I’m Hope Mola
 Currently learning: Data Analysis tools, SQL, Python, and Cloud platforms (Azure)
-Aspiring: Data Analyst / Data Engineer
+Aspiring: Data Engineer / Data Scientist
 Passionate about: Turning data into insights, building data-driven solutions, and working with clean, well-structured datasets
 
 💻 Tech Stack
@@ -8,7 +8,7 @@ Passionate about: Turning data into insights, building data-driven solutions, an
 Languages: Java, Python, JavaScript, C#
 Frontend: React, HTML, CSS, Angular, Next
 Backend: Node.js, .NET MVC 
-Database: SQL, SQLite, Firebase Firestore, MySQL
+Database: SQL, SQLite, Firebase , MySQL
 Cloud / DevOps: Azure, Firebase, Git, Docker
 
 ⭐ Featured Projects
