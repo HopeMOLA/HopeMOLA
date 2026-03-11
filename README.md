@@ -33,7 +33,7 @@
 
 <h2 style="color:#0078D4;"><b>🚀 Featured Projects</b></h2>
 <ul>
-  <li><b><a href="https://github.com/HopeMOLA/tokyo-olimpic-data-engineering-project" target="_blank">Tokyo Olympic Azure Data Engineering Project</a>:</b> End-to-end Azure pipeline including ingestion, transformation, and analytics-ready structuring.</li>
+<li><b><a href="https://github.com/HopeMOLA/spotify-data-engineering-pipeline" target="_blank">Spotify Data Engineering Pipeline</a>:</b> End-to-end ETL pipeline for Spotify music data, including extraction, transformation, and loading into SQL Server for analysis.</li>
   <li><b><a href="https://github.com/HopeMOLA/hr-analytics-dashboard" target="_blank">HR Analytics Dashboard</a>:</b> Power BI dashboard delivering KPI-driven workforce insights using DAX and data modeling.</li>
   <li><b><a href="https://github.com/HopeMOLA/Medical-cost-regression.git" target="_blank">Medical Insurance Cost Prediction</a>:</b> Machine learning project with EDA, feature engineering, regression modeling, and predictive analytics.</li>
 </ul>
